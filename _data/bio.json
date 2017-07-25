@@ -2,9 +2,9 @@
   "basics": {
     "name": "Alexander Knüppel",
     "label": "PhD Candidate",
-    "picture": "https://AlexanderKnueppel.github.io/template/images/portrait.jpg",
+    "picture": "https://AlexanderKnueppel.github.io/images/portrait.jpg",
     "email": "a.knueppel@tu-bs.de",
-    "phone": "808-333-4444",
+    "phone": "",
     "website": "https://AlexanderKnueppel.github.io",
     "summary": "I am a second year PhD Student in the SE Department at TU Braunschweig, advised by Ina Schaefer and Thomas Thüm. My research focuses on developing practical solutions for building reliable software systems.",
     "location": {
